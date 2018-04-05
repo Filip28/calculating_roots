@@ -1,5 +1,7 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
+
+//calculating roots of ->  (x^2 -1)sinh^3x = 0
 public class Pierwiastki {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
